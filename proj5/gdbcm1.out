@@ -1,0 +1,1491 @@
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x40140f
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:21: Error in sourced command file:
+The program is not being run.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+Missing separate debuginfos, use: dnf debuginfo-install glibc-2.27-32.fc28.x86_64
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x00007ffff7fd6960)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x00007ffff7fd3000)
+Warning:
+Cannot insert hardware breakpoint 3.
+Could not insert hardware breakpoints:
+You may have requested too many hardware breakpoints/watchpoints.
+
+Missing separate debuginfos, use: dnf debuginfo-install libgcc-8.1.1-5.fc28.x86_64 libstdc++-8.1.1-5.fc28.x86_64
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x4013c9
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:21: Error in sourced command file:
+The program is not being run.
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x401382
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:21: Error in sourced command file:
+The program is not being run.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+Missing separate debuginfos, use: dnf debuginfo-install glibc-2.27-32.fc28.x86_64
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1425) = 0x00007ffff7ffe6c1
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1169) = 0x00007ffff7ffeb61
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(16) = 0x00007ffff7ffeb80
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(157) = 0x00007ffff7ffec1d
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(24) = 0x00007ffff7ffec38
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(160) = 0x00007ffff7ffece0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7ffecf6
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7fd74b6
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd74d1
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1178) = 0x00007ffff7fd797a
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd7991
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(21) = 0x00007ffff7fd79b5
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1182) = 0x00007ffff7fd7e5e
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(21) = 0x00007ffff7fd7e75
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd7e91
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x0000000000000000)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1178) = 0x00007ffff7fd833a
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd8351
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(88) = 0x00007ffff7fd83b8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(56) = 0x00007ffff7fd83f8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(40) = 0x00007ffff7fd8428
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(40) = 0x00007ffff7fd8458
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(104) = 0x00007ffff7fd84c8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(192) = 0x00007ffff7fd8590
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(72) = 0x00007ffff7fd85d8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1320) = 0x00007ffff7fd8b08
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(360) = 0x00007ffff7fd8c78
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(384) = 0x00007ffff7fd8e00
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(144) = 0x00007ffff7fd5390
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1056) = 0x00007ffff7fd57b0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(4232) = 0x00007ffff7fd6838
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(288) = 0x00007ffff7fd6960
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(992) = 0x00007ffff7fd6d40
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x00007ffff7fd6960)
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(4064) = 0x00007ffff7fd4780
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+free(0x00007ffff7fd3000)
+Warning:
+Cannot insert hardware breakpoint 3.
+Could not insert hardware breakpoints:
+You may have requested too many hardware breakpoints/watchpoints.
+
+Missing separate debuginfos, use: dnf debuginfo-install libgcc-8.1.1-5.fc28.x86_64 libstdc++-8.1.1-5.fc28.x86_64
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x401382
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:18: Error in sourced command file:
+No stack.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+Missing separate debuginfos, use: dnf debuginfo-install glibc-2.27-32.fc28.x86_64
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1425) = 0x00007ffff7ffe6c1
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1169) = 0x00007ffff7ffeb61
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(16) = 0x00007ffff7ffeb80
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(157) = 0x00007ffff7ffec1d
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(24) = 0x00007ffff7ffec38
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(160) = 0x00007ffff7ffece0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7ffecf6
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Undefined command: "quite".  Try "help".
+Undefined command: "quite".  Try "help".
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x401382
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:18: Error in sourced command file:
+No stack.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+Missing separate debuginfos, use: dnf debuginfo-install glibc-2.27-32.fc28.x86_64
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1425) = 0x00007ffff7ffe6c1
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1169) = 0x00007ffff7ffeb61
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(16) = 0x00007ffff7ffeb80
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(157) = 0x00007ffff7ffec1d
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(24) = 0x00007ffff7ffec38
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(160) = 0x00007ffff7ffece0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7ffecf6
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Dump of assembler code for function malloc:
+   0x00007ffff7def270 <+0>:	mov    0x20ee09(%rip),%rcx        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def277 <+7>:	test   %rcx,%rcx
+   0x00007ffff7def27a <+10>:	je     0x7ffff7def350 <malloc+224>
+   0x00007ffff7def280 <+16>:	mov    0x20ee01(%rip),%rdx        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def287 <+23>:	add    $0xf,%rdx
+   0x00007ffff7def28b <+27>:	and    $0xfffffffffffffff0,%rdx
+   0x00007ffff7def28f <+31>:	lea    (%rdx,%rdi,1),%rax
+   0x00007ffff7def293 <+35>:	mov    %rdx,0x20edee(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def29a <+42>:	cmp    %rcx,%rax
+   0x00007ffff7def29d <+45>:	jae    0x7ffff7def2ae <malloc+62>
+   0x00007ffff7def29f <+47>:	mov    %rdx,%rcx
+   0x00007ffff7def2a2 <+50>:	neg    %rcx
+   0x00007ffff7def2a5 <+53>:	cmp    %rdi,%rcx
+   0x00007ffff7def2a8 <+56>:	ja     0x7ffff7def338 <malloc+200>
+   0x00007ffff7def2ae <+62>:	push   %rbp
+   0x00007ffff7def2af <+63>:	push   %rbx
+   0x00007ffff7def2b0 <+64>:	sub    $0x8,%rsp
+   0x00007ffff7def2b4 <+68>:	mov    0x20d45d(%rip),%rax        # 0x7ffff7ffc718 <_rtld_local_ro+24>
+   0x00007ffff7def2bb <+75>:	mov    %rax,%rdx
+   0x00007ffff7def2be <+78>:	lea    -0x1(%rax,%rdi,1),%rbx
+   0x00007ffff7def2c3 <+83>:	neg    %rdx
+   0x00007ffff7def2c6 <+86>:	and    %rdx,%rbx
+   0x00007ffff7def2c9 <+89>:	jne    0x7ffff7def2d4 <malloc+100>
+   0x00007ffff7def2cb <+91>:	test   %rdi,%rdi
+   0x00007ffff7def2ce <+94>:	jne    0x7ffff7def388 <malloc+280>
+   0x00007ffff7def2d4 <+100>:	add    %rax,%rbx
+   0x00007ffff7def2d7 <+103>:	mov    %rdi,%rbp
+   0x00007ffff7def2da <+106>:	xor    %r9d,%r9d
+   0x00007ffff7def2dd <+109>:	xor    %edi,%edi
+   0x00007ffff7def2df <+111>:	mov    $0xffffffff,%r8d
+   0x00007ffff7def2e5 <+117>:	mov    $0x22,%ecx
+   0x00007ffff7def2ea <+122>:	mov    $0x3,%edx
+   0x00007ffff7def2ef <+127>:	mov    %rbx,%rsi
+   0x00007ffff7def2f2 <+130>:	callq  0x7ffff7df0c00 <mmap64>
+   0x00007ffff7def2f7 <+135>:	cmp    $0xffffffffffffffff,%rax
+   0x00007ffff7def2fb <+139>:	je     0x7ffff7def388 <malloc+280>
+   0x00007ffff7def301 <+145>:	cmp    %rax,0x20ed78(%rip)        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def308 <+152>:	mov    %rax,%rdx
+   0x00007ffff7def30b <+155>:	je     0x7ffff7def378 <malloc+264>
+   0x00007ffff7def30d <+157>:	add    %rbx,%rax
+   0x00007ffff7def310 <+160>:	mov    %rdx,0x20ed61(%rip)        # 0x7ffff7ffe078 <alloc_last_block>
+   0x00007ffff7def317 <+167>:	mov    %rax,0x20ed62(%rip)        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def31e <+174>:	lea    (%rdx,%rbp,1),%rax
+   0x00007ffff7def322 <+178>:	mov    %rax,0x20ed5f(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def329 <+185>:	add    $0x8,%rsp
+   0x00007ffff7def32d <+189>:	mov    %rdx,%rax
+   0x00007ffff7def330 <+192>:	pop    %rbx
+   0x00007ffff7def331 <+193>:	pop    %rbp
+   0x00007ffff7def332 <+194>:	retq   
+   0x00007ffff7def333 <+195>:	nopl   0x0(%rax,%rax,1)
+   0x00007ffff7def338 <+200>:	mov    %rax,0x20ed49(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def33f <+207>:	mov    %rdx,%rax
+   0x00007ffff7def342 <+210>:	mov    %rdx,0x20ed2f(%rip)        # 0x7ffff7ffe078 <alloc_last_block>
+   0x00007ffff7def349 <+217>:	retq   
+   0x00007ffff7def34a <+218>:	nopw   0x0(%rax,%rax,1)
+   0x00007ffff7def350 <+224>:	mov    0x20d3c1(%rip),%rax        # 0x7ffff7ffc718 <_rtld_local_ro+24>
+   0x00007ffff7def357 <+231>:	lea    0x20edd2(%rip),%rdx        # 0x7ffff7ffe130
+   0x00007ffff7def35e <+238>:	lea    -0x1(%rax,%rdx,1),%rcx
+   0x00007ffff7def363 <+243>:	neg    %rax
+   0x00007ffff7def366 <+246>:	and    %rax,%rcx
+   0x00007ffff7def369 <+249>:	mov    %rcx,0x20ed10(%rip)        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def370 <+256>:	jmpq   0x7ffff7def287 <malloc+23>
+   0x00007ffff7def375 <+261>:	nopl   (%rax)
+   0x00007ffff7def378 <+264>:	mov    0x20ed09(%rip),%rdx        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def37f <+271>:	jmp    0x7ffff7def30d <malloc+157>
+   0x00007ffff7def381 <+273>:	nopl   0x0(%rax)
+   0x00007ffff7def388 <+280>:	add    $0x8,%rsp
+   0x00007ffff7def38c <+284>:	xor    %edx,%edx
+   0x00007ffff7def38e <+286>:	mov    %rdx,%rax
+   0x00007ffff7def391 <+289>:	pop    %rbx
+   0x00007ffff7def392 <+290>:	pop    %rbp
+   0x00007ffff7def393 <+291>:	retq   
+End of assembler dump.
+Dump of assembler code for function free:
+=> 0x00007ffff7def3e0 <+0>:	mov    0x20ec91(%rip),%rcx        # 0x7ffff7ffe078 <alloc_last_block>
+   0x00007ffff7def3e7 <+7>:	cmp    %rdi,%rcx
+   0x00007ffff7def3ea <+10>:	je     0x7ffff7def3f0 <free+16>
+   0x00007ffff7def3ec <+12>:	retq   
+   0x00007ffff7def3ed <+13>:	nopl   (%rax)
+   0x00007ffff7def3f0 <+16>:	sub    $0x8,%rsp
+   0x00007ffff7def3f4 <+20>:	mov    0x20ec8d(%rip),%rdx        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def3fb <+27>:	xor    %esi,%esi
+   0x00007ffff7def3fd <+29>:	mov    %rcx,%rdi
+   0x00007ffff7def400 <+32>:	sub    %rcx,%rdx
+   0x00007ffff7def403 <+35>:	callq  0x7ffff7df4f60 <memset>
+   0x00007ffff7def408 <+40>:	mov    %rax,0x20ec79(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def40f <+47>:	add    $0x8,%rsp
+   0x00007ffff7def413 <+51>:	retq   
+End of assembler dump.
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x401382
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:18: Error in sourced command file:
+No stack.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+Missing separate debuginfos, use: dnf debuginfo-install glibc-2.27-32.fc28.x86_64
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1425) = 0x00007ffff7ffe6c1
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1169) = 0x00007ffff7ffeb61
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(16) = 0x00007ffff7ffeb80
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(157) = 0x00007ffff7ffec1d
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(24) = 0x00007ffff7ffec38
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(160) = 0x00007ffff7ffece0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7ffecf6
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Dump of assembler code for function malloc:
+   0x00007ffff7def270 <+0>:	mov    0x20ee09(%rip),%rcx        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def277 <+7>:	test   %rcx,%rcx
+   0x00007ffff7def27a <+10>:	je     0x7ffff7def350 <malloc+224>
+   0x00007ffff7def280 <+16>:	mov    0x20ee01(%rip),%rdx        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def287 <+23>:	add    $0xf,%rdx
+   0x00007ffff7def28b <+27>:	and    $0xfffffffffffffff0,%rdx
+   0x00007ffff7def28f <+31>:	lea    (%rdx,%rdi,1),%rax
+   0x00007ffff7def293 <+35>:	mov    %rdx,0x20edee(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def29a <+42>:	cmp    %rcx,%rax
+   0x00007ffff7def29d <+45>:	jae    0x7ffff7def2ae <malloc+62>
+   0x00007ffff7def29f <+47>:	mov    %rdx,%rcx
+   0x00007ffff7def2a2 <+50>:	neg    %rcx
+   0x00007ffff7def2a5 <+53>:	cmp    %rdi,%rcx
+   0x00007ffff7def2a8 <+56>:	ja     0x7ffff7def338 <malloc+200>
+   0x00007ffff7def2ae <+62>:	push   %rbp
+   0x00007ffff7def2af <+63>:	push   %rbx
+   0x00007ffff7def2b0 <+64>:	sub    $0x8,%rsp
+   0x00007ffff7def2b4 <+68>:	mov    0x20d45d(%rip),%rax        # 0x7ffff7ffc718 <_rtld_local_ro+24>
+   0x00007ffff7def2bb <+75>:	mov    %rax,%rdx
+   0x00007ffff7def2be <+78>:	lea    -0x1(%rax,%rdi,1),%rbx
+   0x00007ffff7def2c3 <+83>:	neg    %rdx
+   0x00007ffff7def2c6 <+86>:	and    %rdx,%rbx
+   0x00007ffff7def2c9 <+89>:	jne    0x7ffff7def2d4 <malloc+100>
+   0x00007ffff7def2cb <+91>:	test   %rdi,%rdi
+   0x00007ffff7def2ce <+94>:	jne    0x7ffff7def388 <malloc+280>
+   0x00007ffff7def2d4 <+100>:	add    %rax,%rbx
+   0x00007ffff7def2d7 <+103>:	mov    %rdi,%rbp
+   0x00007ffff7def2da <+106>:	xor    %r9d,%r9d
+   0x00007ffff7def2dd <+109>:	xor    %edi,%edi
+   0x00007ffff7def2df <+111>:	mov    $0xffffffff,%r8d
+   0x00007ffff7def2e5 <+117>:	mov    $0x22,%ecx
+   0x00007ffff7def2ea <+122>:	mov    $0x3,%edx
+   0x00007ffff7def2ef <+127>:	mov    %rbx,%rsi
+   0x00007ffff7def2f2 <+130>:	callq  0x7ffff7df0c00 <mmap64>
+   0x00007ffff7def2f7 <+135>:	cmp    $0xffffffffffffffff,%rax
+   0x00007ffff7def2fb <+139>:	je     0x7ffff7def388 <malloc+280>
+   0x00007ffff7def301 <+145>:	cmp    %rax,0x20ed78(%rip)        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def308 <+152>:	mov    %rax,%rdx
+   0x00007ffff7def30b <+155>:	je     0x7ffff7def378 <malloc+264>
+   0x00007ffff7def30d <+157>:	add    %rbx,%rax
+   0x00007ffff7def310 <+160>:	mov    %rdx,0x20ed61(%rip)        # 0x7ffff7ffe078 <alloc_last_block>
+   0x00007ffff7def317 <+167>:	mov    %rax,0x20ed62(%rip)        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def31e <+174>:	lea    (%rdx,%rbp,1),%rax
+   0x00007ffff7def322 <+178>:	mov    %rax,0x20ed5f(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def329 <+185>:	add    $0x8,%rsp
+   0x00007ffff7def32d <+189>:	mov    %rdx,%rax
+   0x00007ffff7def330 <+192>:	pop    %rbx
+   0x00007ffff7def331 <+193>:	pop    %rbp
+   0x00007ffff7def332 <+194>:	retq   
+   0x00007ffff7def333 <+195>:	nopl   0x0(%rax,%rax,1)
+   0x00007ffff7def338 <+200>:	mov    %rax,0x20ed49(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def33f <+207>:	mov    %rdx,%rax
+   0x00007ffff7def342 <+210>:	mov    %rdx,0x20ed2f(%rip)        # 0x7ffff7ffe078 <alloc_last_block>
+   0x00007ffff7def349 <+217>:	retq   
+   0x00007ffff7def34a <+218>:	nopw   0x0(%rax,%rax,1)
+   0x00007ffff7def350 <+224>:	mov    0x20d3c1(%rip),%rax        # 0x7ffff7ffc718 <_rtld_local_ro+24>
+   0x00007ffff7def357 <+231>:	lea    0x20edd2(%rip),%rdx        # 0x7ffff7ffe130
+   0x00007ffff7def35e <+238>:	lea    -0x1(%rax,%rdx,1),%rcx
+   0x00007ffff7def363 <+243>:	neg    %rax
+   0x00007ffff7def366 <+246>:	and    %rax,%rcx
+   0x00007ffff7def369 <+249>:	mov    %rcx,0x20ed10(%rip)        # 0x7ffff7ffe080 <alloc_end>
+   0x00007ffff7def370 <+256>:	jmpq   0x7ffff7def287 <malloc+23>
+   0x00007ffff7def375 <+261>:	nopl   (%rax)
+   0x00007ffff7def378 <+264>:	mov    0x20ed09(%rip),%rdx        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def37f <+271>:	jmp    0x7ffff7def30d <malloc+157>
+   0x00007ffff7def381 <+273>:	nopl   0x0(%rax)
+   0x00007ffff7def388 <+280>:	add    $0x8,%rsp
+   0x00007ffff7def38c <+284>:	xor    %edx,%edx
+   0x00007ffff7def38e <+286>:	mov    %rdx,%rax
+   0x00007ffff7def391 <+289>:	pop    %rbx
+   0x00007ffff7def392 <+290>:	pop    %rbp
+   0x00007ffff7def393 <+291>:	retq   
+End of assembler dump.
+Dump of assembler code for function free:
+=> 0x00007ffff7def3e0 <+0>:	mov    0x20ec91(%rip),%rcx        # 0x7ffff7ffe078 <alloc_last_block>
+   0x00007ffff7def3e7 <+7>:	cmp    %rdi,%rcx
+   0x00007ffff7def3ea <+10>:	je     0x7ffff7def3f0 <free+16>
+   0x00007ffff7def3ec <+12>:	retq   
+   0x00007ffff7def3ed <+13>:	nopl   (%rax)
+   0x00007ffff7def3f0 <+16>:	sub    $0x8,%rsp
+   0x00007ffff7def3f4 <+20>:	mov    0x20ec8d(%rip),%rdx        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def3fb <+27>:	xor    %esi,%esi
+   0x00007ffff7def3fd <+29>:	mov    %rcx,%rdi
+   0x00007ffff7def400 <+32>:	sub    %rcx,%rdx
+   0x00007ffff7def403 <+35>:	callq  0x7ffff7df4f60 <memset>
+   0x00007ffff7def408 <+40>:	mov    %rax,0x20ec79(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def40f <+47>:	add    $0x8,%rsp
+   0x00007ffff7def413 <+51>:	retq   
+End of assembler dump.
+#0  0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+#1  0x00007ffff7ddd0b6 in open_verify.constprop () from /lib64/ld-linux-x86-64.so.2
+#2  0x00007ffff7ddeefa in _dl_map_object () from /lib64/ld-linux-x86-64.so.2
+#3  0x00007ffff7de3332 in openaux () from /lib64/ld-linux-x86-64.so.2
+#4  0x00007ffff7defa4b in _dl_catch_exception () from /lib64/ld-linux-x86-64.so.2
+#5  0x00007ffff7de376f in _dl_map_object_deps () from /lib64/ld-linux-x86-64.so.2
+#6  0x00007ffff7dd991d in dl_main () from /lib64/ld-linux-x86-64.so.2
+#7  0x00007ffff7deeb40 in _dl_sysdep_start () from /lib64/ld-linux-x86-64.so.2
+#8  0x00007ffff7dd8008 in _dl_start () from /lib64/ld-linux-x86-64.so.2
+#9  0x00007ffff7dd6f68 in _start () from /lib64/ld-linux-x86-64.so.2
+#10 0x0000000000000001 in ?? ()
+#11 0x00007fffffffdea2 in ?? ()
+#12 0x0000000000000000 in ?? ()
+Undefined command: "exit".  Try "help".
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x401382
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:18: Error in sourced command file:
+No stack.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+Missing separate debuginfos, use: dnf debuginfo-install glibc-2.27-32.fc28.x86_64
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1425) = 0x00007ffff7ffe6c1
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1169) = 0x00007ffff7ffeb61
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(16) = 0x00007ffff7ffeb80
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(157) = 0x00007ffff7ffec1d
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(24) = 0x00007ffff7ffec38
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(160) = 0x00007ffff7ffece0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7ffecf6
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+ada print-signatures:  Whether the output of formal and return types for functions in the overloads selection menu is activated is on.
+ada trust-PAD-over-XVS:  Whether an optimization trusting PAD types over XVS types is activated is on.
+agent:  Debugger's willingness to use agent in inferior as a helper is off.
+annotate:  Annotation_level is 0.
+architecture:  The target architecture is set automatically (currently i386:x86-64)
+args:  Argument list to give program being debugged when it is started is "".
+arm abi:  The current ARM ABI is "auto".
+arm apcs32:  Usage of ARM 32-bit mode is on.
+arm disassembler:  The disassembly style is "".
+arm fallback-mode:  The current execution mode assumed (when symbols are unavailable) is "auto".
+arm force-mode:  The current execution mode assumed (even when symbols are available) is "auto".
+arm fpu:  The current ARM floating point model is "auto".
+auto-connect-native-target:  Whether GDB may automatically connect to the native target is on.
+auto-load gdb-scripts:  Auto-loading of canned sequences of commands scripts is on.
+auto-load guile-scripts:  Auto-loading of Guile scripts is on.
+auto-load libthread-db:  Auto-loading of inferior specific libthread_db is on.
+auto-load local-gdbinit:  Auto-loading of .gdbinit script from current directory is on.
+auto-load python-scripts:  Auto-loading of Python scripts is on.
+auto-load safe-path:  List of directories from which it is safe to auto-load files is $debugdir:$datadir/auto-load.
+auto-load scripts-directory:  List of directories from which to load auto-loaded scripts is $debugdir:$datadir/auto-load.
+auto-load-scripts:  Auto-loading of Python scripts is on.
+auto-solib-add:  Autoloading of shared library symbols is on.
+backtrace limit:  An upper bound on the number of backtrace levels is unlimited.
+backtrace past-entry:  Whether backtraces should continue past the entry point of a program is off.
+backtrace past-main:  Whether backtraces should continue past "main" is off.
+basenames-may-differ:  Whether a source file may have multiple base names is off.
+breakpoint always-inserted:  Always inserted breakpoint mode is off.
+breakpoint auto-hw:  Automatic usage of hardware breakpoints is on.
+breakpoint condition-evaluation:  Breakpoint condition evaluation mode is auto (currently host).
+breakpoint pending:  Debugger's behavior regarding pending breakpoints is on.
+build-id-core-loads:  Whether CORE-FILE loads the build-id associated files automatically is on.
+build-id-verbose:  Verbosity level of the build-id locator is 1.
+c:  range:  Range checking is "auto; currently off".
+type:  Strict type checking is on.
+can-use-hw-watchpoints:  Debugger's willingness to use watchpoint hardware is 1.
+case-sensitive:  Case sensitivity in name search is "auto; currently on".
+ch:  range:  Range checking is "auto; currently off".
+type:  Strict type checking is on.
+charset:  The host character set is "auto; currently UTF-8".
+The target character set is "auto; currently UTF-8".
+The target wide character set is "auto; currently UTF-32".
+check range:  Range checking is "auto; currently off".
+check type:  Strict type checking is on.
+circular-trace-buffer:  Target's use of circular trace buffer is off.
+code-cache:  Cache use for code accesses is on.
+coerce-float-to-double:  Coercion of floats to doubles when calling functions is on.
+compile-args:  Compile command command-line arguments are "-O0 -gdwarf-4 -fPIE -Wall  -Wno-implicit-function-declaration -Wno-unused-but-set-variable -Wno-unused-variable -fno-stack-protector".
+compile-gcc:  Compile command GCC driver filename is "".
+complaints:  Max number of complaints about incorrect symbols is 0.
+confirm:  Whether to confirm potentially dangerous operations is on.
+conv:  $mallocsize = 22
+$bpnum = 3
+$_regex = <internal function _regex>
+$_streq = <internal function _streq>
+$_strlen = <internal function _strlen>
+$_memeq = <internal function _memeq>
+$in_scope = <internal function in_scope>
+$_any_caller_matches = <internal function _any_caller_matches>
+$_any_caller_is = <internal function _any_caller_is>
+$_caller_matches = <internal function _caller_matches>
+$_caller_is = <internal function _caller_is>
+$_as_string = <internal function _as_string>
+$_inferior = 1
+$_isvoid = <internal function _isvoid>
+$_sdata = void
+$_gthread = 1
+$_thread = 1
+$_probe_arg11 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg10 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg9 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg8 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg7 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg6 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg5 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg4 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg3 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg2 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg1 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg0 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_argc = <error: No probe at PC 0x00007ffff7def3e0>
+$_siginfo = {si_signo = 5, si_errno = 0, si_code = 4, _sifields = {_pad = {-136383520, 32767, 0, 0, 9, 0 <repeats 11 times>, -56, -1, 1, 0, 0, 0, 0, 0, 0, 0, 886183168, 1776701182}, _kill = {si_pid = -136383520, si_uid = 32767}, _timer = {si_tid = -136383520, si_overrun = 32767, si_sigval = {sival_int = 0, sival_ptr = 0x0}}, _rt = {si_pid = -136383520, si_uid = 32767, si_sigval = {sival_int = 0, sival_ptr = 0x0}}, _sigchld = {si_pid = -136383520, si_uid = 32767, si_status = 0, si_utime = 38654705664, si_stime = 0}, _sigfault = {si_addr = 0x7ffff7def3e0 <free>, _addr_lsb = 0, _addr_bnd = {_lower = 0x9, _upper = 0x0}}, _sigpoll = {si_band = 140737351971808, si_fd = 0}}}
+$_exception = <error: not stopped at a C++ exception catchpoint>
+convenience:  $mallocsize = 22
+$bpnum = 3
+$_regex = <internal function _regex>
+$_streq = <internal function _streq>
+$_strlen = <internal function _strlen>
+$_memeq = <internal function _memeq>
+$in_scope = <internal function in_scope>
+$_any_caller_matches = <internal function _any_caller_matches>
+$_any_caller_is = <internal function _any_caller_is>
+$_caller_matches = <internal function _caller_matches>
+$_caller_is = <internal function _caller_is>
+$_as_string = <internal function _as_string>
+$_inferior = 1
+$_isvoid = <internal function _isvoid>
+$_sdata = void
+$_gthread = 1
+$_thread = 1
+$_probe_arg11 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg10 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg9 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg8 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg7 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg6 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg5 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg4 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg3 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg2 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg1 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_arg0 = <error: No probe at PC 0x00007ffff7def3e0>
+$_probe_argc = <error: No probe at PC 0x00007ffff7def3e0>
+$_siginfo = {si_signo = 5, si_errno = 0, si_code = 4, _sifields = {_pad = {-136383520, 32767, 0, 0, 9, 0 <repeats 11 times>, -56, -1, 1, 0, 0, 0, 0, 0, 0, 0, 886183168, 1776701182}, _kill = {si_pid = -136383520, si_uid = 32767}, _timer = {si_tid = -136383520, si_overrun = 32767, si_sigval = {sival_int = 0, sival_ptr = 0x0}}, _rt = {si_pid = -136383520, si_uid = 32767, si_sigval = {sival_int = 0, sival_ptr = 0x0}}, _sigchld = {si_pid = -136383520, si_uid = 32767, si_status = 0, si_utime = 38654705664, si_stime = 0}, _sigfault = {si_addr = 0x7ffff7def3e0 <free>, _addr_lsb = 0, _addr_bnd = {_lower = 0x9, _upper = 0x0}}, _sigpoll = {si_band = 140737351971808, si_fd = 0}}}
+$_exception = <error: not stopped at a C++ exception catchpoint>
+cp-abi:  The currently selected C++ ABI is "auto" (currently "gnu-v3").
+cwd:  You have not set the inferior's current working directory.
+The inferior will inherit GDB's cwd if native debugging, or the remote
+server's cwd if remote debugging.
+data-directory:  GDB's data directory is "/usr/share/gdb".
+dcache line-size:  Dcache line size is 64.
+dcache size:  Number of dcache lines is 4096.
+debug aarch64:  AArch64 debugging is off.
+debug arch:  Architecture debugging is 0.
+debug arm:  ARM debugging is off.
+debug auto-load:  Debugging output for files of 'set auto-load ...' is off.
+debug bfd-cache:  BFD cache debugging is 0.
+debug check-physname:  Whether to check "physname" is off.
+debug coff-pe-read:  Coff PE read debugging is 0.
+debug compile:  Compile debugging is off.
+debug displaced:  Displace stepping debugging is off.
+debug dwarf-die:  Debugging of the DWARF DIE reader is 0.
+debug dwarf-line:  Debugging of the dwarf line reader is 0.
+debug dwarf-read:  Debugging of the DWARF reader is 0.
+debug entry-values:  Entry values and tail call frames debugging is 0.
+debug expression:  Expression debugging is 0.
+debug frame:  Frame debugging is 0.
+debug infrun:  Inferior debugging is 0.
+debug jit:  JIT debugging is 0.
+debug libthread-db:  libthread-db debugging is 0.
+debug lin-lwp:  Debugging of GNU/Linux lwp module is 0.
+debug linux-namespaces:  Debugging of GNU/Linux namespaces module is off.
+debug notification:  Debugging of async remote notification is off.
+debug observer:  Observer debugging is 0.
+debug overload:  Debugging of C++ overloading is 0.
+debug parser:  Parser debugging is off.
+debug py-unwind:  Python unwinder debugging is 0.
+debug record:  Debugging of process record target is 0.
+debug remote:  Debugging of remote protocol is 0.
+debug separate-debug-file:  Printing of separate debug info file search debug is off.
+debug serial:  Serial debugging is 0.
+debug stap-expression:  SystemTap Probe expression debugging is 0.
+debug symbol-lookup:  Debugging of symbol lookup is 0.
+debug symfile:  Symfile debugging is off.
+debug symtab-create:  Debugging of symbol table creation is 0.
+debug target:  Target debugging is 0.
+debug timestamp:  Timestamping debugging messages is off.
+debug varobj:  Varobj debugging is 0.
+debug xml:  XML debugging is off.
+debug-file-directory:  The directory where separate debug symbols are searched for is "/usr/lib/debug".
+default-collect:  The list of expressions to collect by default is "".
+demangle-style:  The current C++ demangling style is "auto".
+detach-on-fork:  Whether gdb will detach the child of a fork is on.
+directories:  Source directories searched: $cdir:$cwd
+disable-randomization:  Disabling randomization of debuggee's virtual address space is on.
+disassemble-next-line:  Debugger's willingness to use disassemble-next-line is off.
+disassembler-options:  The current disassembler options are ''
+disassembly-flavor:  The disassembly flavor is "att".
+disconnected-dprintf:  Whether dprintf continues after GDB disconnects is on.
+disconnected-tracing:  Whether tracing continues after GDB disconnects is off.
+displaced-stepping:  Debugger's willingness to use displaced stepping to step over breakpoints is auto (currently on).
+dprintf-channel:  The channel to use for dynamic printf is "".
+dprintf-function:  The function to use for dynamic printf is "printf".
+dprintf-style:  The style of usage for dynamic printf is "gdb".
+dump-excluded-mappings:  Dumping of mappings marked with the VM_DONTDUMP flag is off.
+editing:  Editing of command lines as they are typed is on.
+endian:  The target endianness is set automatically (currently little endian)
+environment:  LANG=en_US.UTF-8
+USER=alhaj1
+LOGNAME=alhaj1
+HOME=/afs/umbc.edu/users/a/l/alhaj1/home
+PATH=/afs/umbc.edu/users/a/l/alhaj1/home/bin:/afs/umbc.edu/users/a/l/alhaj1/home/bin/sgi:/usr/bsd:/usr/bin:/usr/sbin:/sbin:/usr/bin/X11:/usr/local/bin:/usr/local/X11:/etc:/usr/etc:.:/usr/software/bin:/afs/umbc.edu/common/submit/bin:/afs/umbc.edu/software/cadence/software_2008/MMSIM62/tools/bin:/afs/umbc.edu/software/cadence/software_2008/IC5141/tools/dfII/bin:/afs/umbc.edu/software/cadence/software_2008/IC5141/tools/bin:/afs/umbc.edu/software/cadence/software_2008/IUS61/tools/bin:/afs/umbc.edu/software/cadence/software_2008/SOC71/tools/bin:/afs/umbc.edu/software/cadence/software_2008/ETS71/tools/bin:/afs/umbc.edu/software/cadence/software_2008/ET72/tools/bin
+MAIL=/var/spool/mail/alhaj1
+SHELL=/bin/tcsh
+SSH_CLIENT=73.163.16.100 35040 22
+SSH_CONNECTION=73.163.16.100 35040 130.85.12.141 22
+SSH_TTY=/dev/pts/3
+TERM=xterm-256color
+XDG_SESSION_ID=44085
+XDG_RUNTIME_DIR=/run/user/123771
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/123771/bus
+KRB5CCNAME=DIR:/run/user/123771/krb5cc_guO5Wc
+HOSTTYPE=x86_64-linux
+VENDOR=unknown
+OSTYPE=linux
+MACHTYPE=x86_64
+SHLVL=1
+PWD=/afs/umbc.edu/users/a/l/alhaj1/home/cs341proj/proj5-late3
+GROUP=rpc
+HOST=linux3.gl.umbc.edu
+REMOTEHOST=73.163.16.100
+HOSTNAME=linux3.gl.umbc.edu
+LS_COLORS=rs=0:di=38;5;33:ln=38;5;51:mh=00:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=01;05;37;41:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;40:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.zst=38;5;9:*.tzst=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.wim=38;5;9:*.swm=38;5;9:*.dwm=38;5;9:*.esd=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.mjpg=38;5;13:*.mjpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.m4a=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.oga=38;5;45:*.opus=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+CVS_RSH=ssh
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+MODULES_CMD=/usr/share/Modules/libexec/modulecmd.tcl
+MODULEPATH_modshare=/usr/share/modulefiles:1:/etc/modulefiles:1:/usr/share/Modules/modulefiles:1
+LOADEDMODULES=
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/etc/scl/modulefiles:/usr/share/Modules/modulefiles:/etc/modulefiles:/usr/share/modulefiles
+MODULES_USE_COMPAT_VERSION=0
+ENV=/usr/share/Modules/init/profile.sh
+BASH_ENV=/usr/share/Modules/init/bash
+EDITOR=/usr/local/bin/emacs
+CDS_DIR=/afs/umbc.edu/software/cadence
+CDS_HOME=/afs/umbc.edu/software/cadence/software_2008/IC5141
+CDS_LIC_FILE=5280@license5.umbc.edu
+CDS_Netlisting_Mode=Analog
+DD_DONT_DO_OS_LOCKS=SET
+CDK_DIR=/afs/umbc.edu/software/cadence/ncsu-cdk-1.5.1.mod
+SYSTEM_CDS_LIB_DIR=/afs/umbc.edu/software/cadence/software_2008/IC5141/share/cdssetup
+IC=/afs/umbc.edu/software/cadence/software_2008/IC5141
+IUS=/afs/umbc.edu/software/cadence/software_2008/IUS61
+MMSIM=/afs/umbc.edu/software/cadence/software_2008/MMSIM62
+SOC=/afs/umbc.edu/software/cadence/software_2008/SOC71
+ETS=/afs/umbc.edu/software/cadence/software_2008/ETS71
+ET=/afs/umbc.edu/software/cadence/software_2008/ET72
+LINES=48
+COLUMNS=87
+exec-direction:  Forward.
+exec-done-display:  Notification of completion for asynchronous execution commands is off.
+exec-wrapper:  The wrapper for running programs is "".
+extended-prompt:  The extended prompt is not set.
+extension-language:  Mapping between filename extension and source language is "".
+filename-display:  Filenames are displayed as "relative".
+follow-exec-mode:  Follow exec mode is "same".
+follow-fork-mode:  Debugger response to a program call of fork or vfork is "parent".
+frame-filter priority:  show frame-filter priority takes exactly two arguments.
+gnutarget:  The current BFD target is "auto".
+gu:  print-stack:  The mode of Guile exception printing on error is "message".
+guile print-stack:  The mode of Guile exception printing on error is "message".
+height:  Number of lines gdb thinks are in a page is 48.
+history expansion:  History expansion on command input is off.
+history filename:  The filename in which to record the command history is "/afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/.gdb_history".
+history remove-duplicates:  The number of history entries to look back at for duplicates is 0.
+history save:  Saving of the history record on exit is off.
+history size:  The size of the command history is 256.
+host-charset:  The host character set is "auto; currently UTF-8".
+inferior-tty:  Terminal for future runs of program being debugged is "".
+input-radix:  Default input radix for entering numbers is 10.
+interactive-mode:  Debugger's interactive mode is auto (currently on).
+language:  The current source language is "auto; currently c++".
+libthread-db-search-path:  The current search path or libthread_db is "$sdir:$pdir".
+listsize:  Number of source lines gdb will list by default is 10.
+logging file:  The current logfile is "gdbcm1.out".
+logging overwrite:  Whether logging overwrites or appends to the log file is off.
+logging redirect:  The logging output mode is off.
+max-completions:  Maximum number of completion candidates is 200.
+max-user-call-depth:  The max call depth for user-defined commands is 1024.
+max-value-size:  Maximum value size is 65536 bytes.
+may-insert-breakpoints:  Permission to insert breakpoints in the target is on.
+may-insert-fast-tracepoints:  Permission to insert fast tracepoints in the target is on.
+may-insert-tracepoints:  Permission to insert tracepoints in the target is on.
+may-interrupt:  Permission to interrupt or signal the target is on.
+may-write-memory:  Permission to write into target memory is on.
+may-write-registers:  Permission to write into registers is on.
+mem  inaccessible-by-default:  Unknown memory addresses will be treated as inaccessible.
+mi-async:  Whether MI is in asynchronous mode is off.
+mpx bound:  Intel Memory Protection Extensions not supported on this target.
+multiple-symbols:  How the debugger handles ambiguities in expressions is "all".
+non-stop:  Controlling the inferior in non-stop mode is off.
+observer:  Observer mode is off.
+opaque-type-resolution:  Resolution of opaque struct/class/union types (if set before loading symbols) is on.
+osabi:  The current OS ABI is "auto" (currently "GNU/Linux").
+The default OS ABI is "GNU/Linux".
+output-radix:  Default output radix for printing of values is 10.
+overload-resolution:  Overload resolution in evaluating C++ functions is on.
+p:  address:  Printing of addresses is on.
+array:  Pretty formatting of arrays is off.
+array-indexes:  Printing of array indexes is off.
+asm-demangle:  Demangling of C++/ObjC names in disassembly listings is off.
+demangle:  Demangling of encoded C++/ObjC names when displaying symbols is on.
+elements:  Limit on string chars or array elements to print is 200.
+entry-values:  Printing of function arguments at function entry is "default".
+frame-arguments:  Printing of non-scalar frame arguments is "scalars".
+inferior-events:  Printing of inferior events is off.
+max-symbolic-offset:  The largest offset that will be printed in <symbol+1234> form is unlimited.
+null-stop:  Printing of char arrays to stop at first null char is off.
+object:  Printing of object's derived type based on vtable info is off.
+pascal_static-members:  Printing of pascal static members is on.
+pretty:  Pretty formatting of structures is off.
+print raw frame-arguments:  Whether to print frame arguments in raw form is off.
+repeats:  Threshold for repeated print elements is 10.
+sevenbit-strings:  Printing of 8-bit characters in strings as \nnn is off.
+static-members:  Printing of C++ static members is on.
+symbol:  Printing of symbols when printing pointers is on.
+symbol-filename:  Printing of source filename and line number with <symbol> is off.
+symbol-loading:  Printing of symbol loading messages is "full".
+thread-events:  Printing of thread events is on.
+print type methods:  Printing of methods defined in a class in on
+print type nested-type-limit:  Will not print nested types defined in a class
+print type typedefs:  Printing of typedefs defined in a class in on
+union:  Printing of unions interior to structures is on.
+vtbl:  Printing of C++ virtual function tables is off.
+pagination:  State of pagination is off.
+paths:  Executable and object file path: /afs/umbc.edu/users/a/l/alhaj1/home/bin:/afs/umbc.edu/users/a/l/alhaj1/home/bin/sgi:/usr/bsd:/usr/bin:/usr/sbin:/sbin:/usr/bin/X11:/usr/local/bin:/usr/local/X11:/etc:/usr/etc:.:/usr/software/bin:/afs/umbc.edu/common/submit/bin:/afs/umbc.edu/software/cadence/software_2008/MMSIM62/tools/bin:/afs/umbc.edu/software/cadence/software_2008/IC5141/tools/dfII/bin:/afs/umbc.edu/software/cadence/software_2008/IC5141/tools/bin:/afs/umbc.edu/software/cadence/software_2008/IUS61/tools/bin:/afs/umbc.edu/software/cadence/software_2008/SOC71/tools/bin:/afs/umbc.edu/software/cadence/software_2008/ETS71/tools/bin:/afs/umbc.edu/software/cadence/software_2008/ET72/tools/bin
+powerpc exact-watchpoints:  Use of exact watchpoints is off.
+powerpc soft-float:  Whether to use a soft-float ABI is auto.
+powerpc vector-abi:  The vector ABI is "auto".
+pr:  address:  Printing of addresses is on.
+array:  Pretty formatting of arrays is off.
+array-indexes:  Printing of array indexes is off.
+asm-demangle:  Demangling of C++/ObjC names in disassembly listings is off.
+demangle:  Demangling of encoded C++/ObjC names when displaying symbols is on.
+elements:  Limit on string chars or array elements to print is 200.
+entry-values:  Printing of function arguments at function entry is "default".
+frame-arguments:  Printing of non-scalar frame arguments is "scalars".
+inferior-events:  Printing of inferior events is off.
+max-symbolic-offset:  The largest offset that will be printed in <symbol+1234> form is unlimited.
+null-stop:  Printing of char arrays to stop at first null char is off.
+object:  Printing of object's derived type based on vtable info is off.
+pascal_static-members:  Printing of pascal static members is on.
+pretty:  Pretty formatting of structures is off.
+print raw frame-arguments:  Whether to print frame arguments in raw form is off.
+repeats:  Threshold for repeated print elements is 10.
+sevenbit-strings:  Printing of 8-bit characters in strings as \nnn is off.
+static-members:  Printing of C++ static members is on.
+symbol:  Printing of symbols when printing pointers is on.
+symbol-filename:  Printing of source filename and line number with <symbol> is off.
+symbol-loading:  Printing of symbol loading messages is "full".
+thread-events:  Printing of thread events is on.
+print type methods:  Printing of methods defined in a class in on
+print type nested-type-limit:  Will not print nested types defined in a class
+print type typedefs:  Printing of typedefs defined in a class in on
+union:  Printing of unions interior to structures is on.
+vtbl:  Printing of C++ virtual function tables is off.
+print address:  Printing of addresses is on.
+print array:  Pretty formatting of arrays is off.
+print array-indexes:  Printing of array indexes is off.
+print asm-demangle:  Demangling of C++/ObjC names in disassembly listings is off.
+print demangle:  Demangling of encoded C++/ObjC names when displaying symbols is on.
+print elements:  Limit on string chars or array elements to print is 200.
+print entry-values:  Printing of function arguments at function entry is "default".
+print frame-arguments:  Printing of non-scalar frame arguments is "scalars".
+print inferior-events:  Printing of inferior events is off.
+print max-symbolic-offset:  The largest offset that will be printed in <symbol+1234> form is unlimited.
+print null-stop:  Printing of char arrays to stop at first null char is off.
+print object:  Printing of object's derived type based on vtable info is off.
+print pascal_static-members:  Printing of pascal static members is on.
+print pretty:  Pretty formatting of structures is off.
+print raw frame-arguments:  Whether to print frame arguments in raw form is off.
+print repeats:  Threshold for repeated print elements is 10.
+print sevenbit-strings:  Printing of 8-bit characters in strings as \nnn is off.
+print static-members:  Printing of C++ static members is on.
+print symbol:  Printing of symbols when printing pointers is on.
+print symbol-filename:  Printing of source filename and line number with <symbol> is off.
+print symbol-loading:  Printing of symbol loading messages is "full".
+print thread-events:  Printing of thread events is on.
+print type methods:  Printing of methods defined in a class in on
+print type nested-type-limit:  Will not print nested types defined in a class
+print type typedefs:  Printing of typedefs defined in a class in on
+print union:  Printing of unions interior to structures is on.
+print vtbl:  Printing of C++ virtual function tables is off.
+prompt:  Gdb's prompt is "(gdb) ".
+python print-stack:  The mode of Python stack printing on error is "message".
+radix:  Input and output radices set to decimal 10, hex a, octal 12.
+range-stepping:  Debugger's willingness to use range stepping is on.
+ravenscar task-switching:  Support for Ravenscar task/thread switching is enabled
+rec:  record btrace bts buffer-size:  The record/replay bts buffer size is 65536.
+record btrace pt buffer-size:  The record/replay pt buffer size is 16384.
+record btrace replay-memory-access:  Replay memory access is read-only.
+record full insn-number-max:  Record/replay buffer limit is 200000.
+record full memory-query:  Whether query if PREC cannot record memory change of next instruction is off.
+record full stop-at-limit:  Whether record/replay stops when record/replay buffer becomes full is on.
+function-call-history-size:  Number of functions to print in "record function-call-history" is 10.
+insn-number-max:  instruction-history-size:  Number of instructions to print in "record instruction-history" is 10.
+memory-query:  stop-at-limit:  record btrace bts buffer-size:  The record/replay bts buffer size is 65536.
+record btrace pt buffer-size:  The record/replay pt buffer size is 16384.
+record btrace replay-memory-access:  Replay memory access is read-only.
+record full insn-number-max:  Record/replay buffer limit is 200000.
+record full memory-query:  Whether query if PREC cannot record memory change of next instruction is off.
+record full stop-at-limit:  Whether record/replay stops when record/replay buffer becomes full is on.
+record function-call-history-size:  Number of functions to print in "record function-call-history" is 10.
+record insn-number-max:  record instruction-history-size:  Number of instructions to print in "record instruction-history" is 10.
+record memory-query:  record stop-at-limit:  remote P-packet:  remote TracepointSource-packet:  Support for the `TracepointSource' packet is auto-detected, currently unknown.
+remote X-packet:  remote Z-packet:  Support for the `Z0' packet is auto-detected, currently unknown.
+Support for the `Z1' packet is auto-detected, currently unknown.
+Support for the `Z2' packet is auto-detected, currently unknown.
+Support for the `Z3' packet is auto-detected, currently unknown.
+Support for the `Z4' packet is auto-detected, currently unknown.
+remote access-watchpoint-packet:  Support for the `Z4' packet is auto-detected, currently unknown.
+remote agent-packet:  Support for the `QAgent' packet is auto-detected, currently unknown.
+remote allow-packet:  Support for the `QAllow' packet is auto-detected, currently unknown.
+remote attach-packet:  Support for the `vAttach' packet is auto-detected, currently unknown.
+remote binary-download-packet:  Support for the `X' packet is auto-detected, currently unknown.
+remote breakpoint-commands-packet:  Support for the `BreakpointCommands' packet is auto-detected, currently unknown.
+remote btrace-conf-bts-size-packet:  Support for the `Qbtrace-conf:bts:size' packet is auto-detected, currently unknown.
+remote btrace-conf-pt-size-packet:  Support for the `Qbtrace-conf:pt:size' packet is auto-detected, currently unknown.
+remote catch-syscalls-packet:  Support for the `QCatchSyscalls' packet is auto-detected, currently unknown.
+remote conditional-breakpoints-packet:  Support for the `ConditionalBreakpoints' packet is auto-detected, currently unknown.
+remote conditional-tracepoints-packet:  Support for the `ConditionalTracepoints' packet is auto-detected, currently unknown.
+remote ctrl-c-packet:  Support for the `vCtrlC' packet is auto-detected, currently unknown.
+remote disable-btrace-packet:  Support for the `Qbtrace:off' packet is auto-detected, currently unknown.
+remote disable-randomization-packet:  Support for the `QDisableRandomization' packet is auto-detected, currently unknown.
+remote enable-btrace-bts-packet:  Support for the `Qbtrace:bts' packet is auto-detected, currently unknown.
+remote enable-btrace-pt-packet:  Support for the `Qbtrace:pt' packet is auto-detected, currently unknown.
+remote environment-hex-encoded-packet:  Support for the `QEnvironmentHexEncoded' packet is auto-detected, currently unknown.
+remote environment-reset-packet:  Support for the `QEnvironmentReset' packet is auto-detected, currently unknown.
+remote environment-unset-packet:  Support for the `QEnvironmentUnset' packet is auto-detected, currently unknown.
+remote exec-event-feature-packet:  Support for the `exec-event-feature' packet is auto-detected, currently unknown.
+remote exec-file:  (null)
+remote fast-tracepoints-packet:  Support for the `FastTracepoints' packet is auto-detected, currently unknown.
+remote fetch-register-packet:  Support for the `p' packet is auto-detected, currently unknown.
+remote fork-event-feature-packet:  Support for the `fork-event-feature' packet is auto-detected, currently unknown.
+remote get-thread-information-block-address-packet:  Support for the `qGetTIBAddr' packet is auto-detected, currently unknown.
+remote get-thread-local-storage-address-packet:  Support for the `qGetTLSAddr' packet is auto-detected, currently unknown.
+remote hardware-breakpoint-limit:  The maximum number of target hardware breakpoints is -1.
+remote hardware-breakpoint-packet:  Support for the `Z1' packet is auto-detected, currently unknown.
+remote hardware-watchpoint-length-limit:  The maximum length (in bytes) of a target hardware watchpoint is -1.
+remote hardware-watchpoint-limit:  The maximum number of target hardware watchpoints is -1.
+remote hostio-close-packet:  Support for the `vFile:close' packet is auto-detected, currently unknown.
+remote hostio-fstat-packet:  Support for the `vFile:fstat' packet is auto-detected, currently unknown.
+remote hostio-open-packet:  Support for the `vFile:open' packet is auto-detected, currently unknown.
+remote hostio-pread-packet:  Support for the `vFile:pread' packet is auto-detected, currently unknown.
+remote hostio-pwrite-packet:  Support for the `vFile:pwrite' packet is auto-detected, currently unknown.
+remote hostio-readlink-packet:  Support for the `vFile:readlink' packet is auto-detected, currently unknown.
+remote hostio-setfs-packet:  Support for the `vFile:setfs' packet is auto-detected, currently unknown.
+remote hostio-unlink-packet:  Support for the `vFile:unlink' packet is auto-detected, currently unknown.
+remote hwbreak-feature-packet:  Support for the `hwbreak-feature' packet is auto-detected, currently unknown.
+remote install-in-trace-packet:  Support for the `InstallInTrace' packet is auto-detected, currently unknown.
+remote interrupt-on-connect:  W whether interrupt-sequence is sent to remote target when gdb connects to is off.
+remote interrupt-sequence:  Send the ASCII ETX character (Ctrl-c) to the remote target to interrupt the execution of the program.
+remote kill-packet:  Support for the `vKill' packet is auto-detected, currently unknown.
+remote library-info-packet:  Support for the `qXfer:libraries:read' packet is auto-detected, currently unknown.
+remote library-info-svr4-packet:  Support for the `qXfer:libraries-svr4:read' packet is auto-detected, currently unknown.
+remote memory-map-packet:  Support for the `qXfer:memory-map:read' packet is auto-detected, currently unknown.
+remote memory-read-packet-size:  The memory-read-packet-size is 0. Packets are limited to 1664 bytes.
+remote memory-write-packet-size:  The memory-write-packet-size is 0. Packets are limited to 1664 bytes.
+remote multiprocess-feature-packet:  Support for the `multiprocess-feature' packet is auto-detected, currently unknown.
+remote no-resumed-stop-reply-packet:  Support for the `N stop reply' packet is auto-detected, currently unknown.
+remote noack-packet:  Support for the `QStartNoAckMode' packet is auto-detected, currently unknown.
+remote osdata-packet:  Support for the `qXfer:osdata:read' packet is auto-detected, currently unknown.
+remote p-packet:  remote pass-signals-packet:  Support for the `QPassSignals' packet is auto-detected, currently unknown.
+remote pid-to-exec-file-packet:  Support for the `qXfer:exec-file:read' packet is auto-detected, currently unknown.
+remote program-signals-packet:  Support for the `QProgramSignals' packet is auto-detected, currently unknown.
+remote query-attached-packet:  Support for the `qAttached' packet is auto-detected, currently unknown.
+remote read-aux-vector-packet:  Support for the `qXfer:auxv:read' packet is auto-detected, currently unknown.
+remote read-btrace-conf-packet:  Support for the `qXfer:btrace-conf' packet is auto-detected, currently unknown.
+remote read-btrace-packet:  Support for the `qXfer:btrace' packet is auto-detected, currently unknown.
+remote read-fdpic-loadmap-packet:  Support for the `qXfer:fdpic:read' packet is auto-detected, currently unknown.
+remote read-sdata-object-packet:  Support for the `qXfer:statictrace:read' packet is auto-detected, currently unknown.
+remote read-siginfo-object-packet:  Support for the `qXfer:siginfo:read' packet is auto-detected, currently unknown.
+remote read-spu-object-packet:  Support for the `qXfer:spu:read' packet is auto-detected, currently unknown.
+remote read-watchpoint-packet:  Support for the `Z3' packet is auto-detected, currently unknown.
+remote reverse-continue-packet:  Support for the `bc' packet is auto-detected, currently unknown.
+remote reverse-step-packet:  Support for the `bs' packet is auto-detected, currently unknown.
+remote run-packet:  Support for the `vRun' packet is auto-detected, currently unknown.
+remote search-memory-packet:  Support for the `qSearch:memory' packet is auto-detected, currently unknown.
+remote set-register-packet:  Support for the `P' packet is auto-detected, currently unknown.
+remote set-working-dir-packet:  Support for the `QSetWorkingDir' packet is auto-detected, currently unknown.
+remote software-breakpoint-packet:  Support for the `Z0' packet is auto-detected, currently unknown.
+remote startup-with-shell-packet:  Support for the `QStartupWithShell' packet is auto-detected, currently unknown.
+remote static-tracepoints-packet:  Support for the `StaticTracepoints' packet is auto-detected, currently unknown.
+remote supported-packets-packet:  Support for the `qSupported' packet is auto-detected, currently unknown.
+remote swbreak-feature-packet:  Support for the `swbreak-feature' packet is auto-detected, currently unknown.
+remote symbol-lookup-packet:  Support for the `qSymbol' packet is auto-detected, currently unknown.
+remote system-call-allowed:  Calling host system(3) call from target is not allowed
+remote target-features-packet:  Support for the `qXfer:features:read' packet is auto-detected, currently unknown.
+remote thread-events-packet:  Support for the `QThreadEvents' packet is auto-detected, currently unknown.
+remote threads-packet:  Support for the `qXfer:threads:read' packet is auto-detected, currently unknown.
+remote trace-buffer-size-packet:  Support for the `QTBuffer:size' packet is auto-detected, currently unknown.
+remote trace-status-packet:  Support for the `qTStatus' packet is auto-detected, currently unknown.
+remote traceframe-info-packet:  Support for the `qXfer:traceframe-info:read' packet is auto-detected, currently unknown.
+remote unwind-info-block-packet:  Support for the `qXfer:uib:read' packet is auto-detected, currently unknown.
+remote verbose-resume-packet:  Support for the `vCont' packet is auto-detected, currently unknown.
+remote verbose-resume-supported-packet:  Support for the `vContSupported' packet is auto-detected, currently unknown.
+remote vfork-event-feature-packet:  Support for the `vfork-event-feature' packet is auto-detected, currently unknown.
+remote write-siginfo-object-packet:  Support for the `qXfer:siginfo:write' packet is auto-detected, currently unknown.
+remote write-spu-object-packet:  Support for the `qXfer:spu:write' packet is auto-detected, currently unknown.
+remote write-watchpoint-packet:  Support for the `Z2' packet is auto-detected, currently unknown.
+remoteaddresssize:  The maximum size of the address (in bits) in a memory packet is 0.
+remotebreak:  remotecache:  Deprecated remotecache flag is off.
+remoteflow:  Hardware flow control is off.
+remotelogbase:  Numerical base for remote session logging is "ascii".
+remotelogfile:  Filename for remote session recording is "".
+remotetimeout:  Timeout limit to wait for target to respond is 2.
+remotewritesize:  The memory-write-packet-size is 0. Packets are limited to 1664 bytes.
+schedule-multiple:  Resuming the execution of threads of all processes is off.
+scheduler-locking:  Mode for locking scheduler during execution is "step".
+script-extension:  Script filename extension recognition is "soft".
+serial baud:  Baud rate for remote serial I/O is -1.
+serial parity:  Parity for remote serial I/O is "none".
+solib-absolute-prefix:  solib-search-path:  The search path for loading non-absolute shared library symbol files is .
+stack-cache:  Cache use for stack accesses is on.
+startup-with-shell:  Use of shell to start subprocesses is on.
+step-mode:  Mode of the step operation is off.
+stop-on-solib-events:  Stopping for shared library events is 0.
+struct-convention:  The convention for returning small structs is "default".
+substitute-path:  List of all source path substitution rules:
+sysroot:  The current system root is "target:".
+target-async:  target-charset:  The target character set is "auto; currently UTF-8".
+target-file-system-kind:  The assumed file system kind for target reported file names is "auto" (currently "unix").
+target-wide-charset:  The target wide character set is "auto; currently UTF-32".
+tcp auto-retry:  Auto-retry on socket connect is on.
+tcp connect-timeout:  Timeout limit in seconds for socket connection is 15.
+tdesc filename:  The target description will be read from the target.
+trace-buffer-size:  Requested size of trace buffer is unlimited.
+trace-commands:  State of GDB CLI command tracing is off.
+trace-notes:  The notes string to use for current and future trace runs is "".
+trace-stop-notes:  The notes string to use for future tstop commands is "".
+trace-user:  The user name to use for current and future trace runs is "".
+trust-readonly-sections:  Mode for reading from readonly sections is off.
+tui active-border-mode:  The attribute mode to use for the active TUI window border is "bold-standout".
+tui border-kind:  The kind of border for TUI windows is "acs".
+tui border-mode:  The attribute mode to use for the TUI window borders is "normal".
+unwind-on-terminating-exception:  Unwind stack if a C++ exception is unhandled while in a call dummy is on.
+unwindonsignal:  Unwinding of stack if a signal is received while in a call dummy is off.
+use-coredump-filter:  Use of /proc/PID/coredump_filter file to generate corefiles is on.
+use-deprecated-index-sections:  Whether to use deprecated gdb_index sections is off.
+user:  verbose:  Verbosity is off.
+watchdog:  Watchdog timer is 0.
+width:  Number of characters gdb thinks are in a line is 87.
+write:  Writing into executable and core files is off.
+malformed linespec error: unexpected colon
+malformed linespec error: unexpected colon
+malformed linespec error: unexpected string, "at"
+malformed linespec error: unexpected string, "at file Hashtable.cpp"
+Undefined command: "ls".  Try "help".
+9	#include <iostream>
+10	#include <cstdlib>
+11	#include <set>
+12	#include <string>
+13	using namespace std ;
+14	
+15	#include "HashTable.h"
+16	
+17	bool isInSet(set<string>& S, const char * str) ;
+18	void addToSet(set<string>& S, const char *str) ;
+Breakpoint 4 at 0x4015bc: file HashTable.cpp, line 27.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1425) = 0x00007ffff7ffe6c1
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1169) = 0x00007ffff7ffeb61
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(16) = 0x00007ffff7ffeb80
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(157) = 0x00007ffff7ffec1d
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(24) = 0x00007ffff7ffec38
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(160) = 0x00007ffff7ffece0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7ffecf6
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Single stepping until exit from function free,
+which has no line number information.
+0x00007ffff7ddd0b6 in open_verify.constprop () from /lib64/ld-linux-x86-64.so.2
+Single stepping until exit from function open_verify.constprop.9,
+which has no line number information.
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7fd74b6
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd74d1
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Single stepping until exit from function free,
+which has no line number information.
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1178) = 0x00007ffff7fd797a
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd7991
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(21) = 0x00007ffff7fd79b5
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Single stepping until exit from function free,
+which has no line number information.
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1182) = 0x00007ffff7fd7e5e
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(21) = 0x00007ffff7fd7e75
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd7e91
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Single stepping until exit from function free,
+which has no line number information.
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1178) = 0x00007ffff7fd833a
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(17) = 0x00007ffff7fd8351
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(88) = 0x00007ffff7fd83b8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(56) = 0x00007ffff7fd83f8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(40) = 0x00007ffff7fd8428
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(40) = 0x00007ffff7fd8458
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(104) = 0x00007ffff7fd84c8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(192) = 0x00007ffff7fd8590
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(72) = 0x00007ffff7fd85d8
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1320) = 0x00007ffff7fd8b08
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(360) = 0x00007ffff7fd8c78
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(384) = 0x00007ffff7fd8e00
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(144) = 0x00007ffff7fd5390
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1056) = 0x00007ffff7fd57b0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(4232) = 0x00007ffff7fd6838
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(288) = 0x00007ffff7fd6960
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(992) = 0x00007ffff7fd6d40
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Continuing.
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(4064) = 0x00007ffff7fd4780
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Continuing.
+Warning:
+Cannot insert hardware breakpoint 3.
+Could not insert hardware breakpoints:
+You may have requested too many hardware breakpoints/watchpoints.
+
+Missing separate debuginfos, use: dnf debuginfo-install libgcc-8.1.1-5.fc28.x86_64 libstdc++-8.1.1-5.fc28.x86_64
+Dump of assembler code for function free:
+   0x00007ffff7def3e0 <+0>:	mov    0x20ec91(%rip),%rcx        # 0x7ffff7ffe078 <alloc_last_block>
+   0x00007ffff7def3e7 <+7>:	cmp    %rdi,%rcx
+   0x00007ffff7def3ea <+10>:	je     0x7ffff7def3f0 <free+16>
+   0x00007ffff7def3ec <+12>:	retq   
+   0x00007ffff7def3ed <+13>:	nopl   (%rax)
+   0x00007ffff7def3f0 <+16>:	sub    $0x8,%rsp
+   0x00007ffff7def3f4 <+20>:	mov    0x20ec8d(%rip),%rdx        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def3fb <+27>:	xor    %esi,%esi
+   0x00007ffff7def3fd <+29>:	mov    %rcx,%rdi
+   0x00007ffff7def400 <+32>:	sub    %rcx,%rdx
+   0x00007ffff7def403 <+35>:	callq  0x7ffff7df4f60 <memset>
+   0x00007ffff7def408 <+40>:	mov    %rax,0x20ec79(%rip)        # 0x7ffff7ffe088 <alloc_ptr>
+   0x00007ffff7def40f <+47>:	add    $0x8,%rsp
+   0x00007ffff7def413 <+51>:	retq   
+End of assembler dump.
+Undefined command: "readel".  Try "help".
+Undefined command: "readel".  Try "help".
+Undefined command: "readelf".  Try "help".
+Undefined command: "readelf".  Try "help".
+Undefined command: "script".  Try "help".
+Undefined command: "grep".  Try "help".
+Undefined command: "script".  Try "help".
+Hardware assisted breakpoint 1 at 0x401350
+Hardware assisted breakpoint 2 at 0x401382
+Hardware assisted breakpoint 3 at 0x401340
+gdbcmd1:18: Error in sourced command file:
+No stack.
+Starting program: /afs/umbc.edu/users/p/a/park/pub/cs341/alhaj1/proj5-late3/test5.o 
+Missing separate debuginfos, use: dnf debuginfo-install glibc-2.27-32.fc28.x86_64
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1425) = 0x00007ffff7ffe6c1
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(1169) = 0x00007ffff7ffeb61
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(16) = 0x00007ffff7ffeb80
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(157) = 0x00007ffff7ffec1d
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(24) = 0x00007ffff7ffec38
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(160) = 0x00007ffff7ffece0
+
+Breakpoint 1, 0x00007ffff7def270 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 2, 0x00007ffff7def2a2 in malloc () from /lib64/ld-linux-x86-64.so.2
+malloc(22) = 0x00007ffff7ffecf6
+
+Breakpoint 3, 0x00007ffff7def3e0 in free () from /lib64/ld-linux-x86-64.so.2
+Undefined command: "quite".  Try "help".
