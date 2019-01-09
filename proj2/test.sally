@@ -1,0 +1,93 @@
+// File: example1.sally
+// author :ahmed alhaj
+// email : alhaj1@umbc.edu
+// CMSC 341 Fall 2018 Project 2
+// Sally FORTH source code
+//
+// Basic test
+//
+
+
+."In FORTH, speak like Yoda we do"     // string literals between ." and "
+.                                      // . prints top of the stack
+CR                                     // prints carriage return
+."Three plus five, what is?"
+.
+SP                            // prints a space character
+3 5 +                         // computes the sum
+.                             // prints the top of the stack again
+CR
+
+
+1 x SET             // x = 1
+x @ . CR            // printf("%d\n", x) ;
+
+x @ 1 + x !         // x = x + 1
+x @ . CR            // printf("%d\n", x) ;
+
+0 y SET             // y = 0
+x @ 2 + y !         // y = x + 2 
+y @ . CR            // printf("%d\n", y) ;
+
+
+15 DUP . SP . CR          // Prints 15 15 
+
+17 14 DROP . CR           // Prints 17
+
+20 30 SWAP . SP  . CR     // Prints 20 30
+
+1 3 2 ROT . SP . SP . CR  // Prints 1 2 3
+
+
+12 x SET
+
+."Truth table for AND" . CR
+x @ 13 >=  x @ 11 <=   AND . CR
+x @ 13 >=  x @ 20 <=   AND . CR
+x @ 11 >=  x @  9 <=   AND . CR
+x @ 10 >=  x @ 20 <=   AND . CR
+CR
+
+."Truth table for OR" . CR
+x @ 13 >=  x @ 11 <=   OR . CR
+x @ 13 >=  x @ 20 <=   OR . CR
+x @ 11 >=  x @  9 <=   OR . CR
+x @ 10 >=  x @ 20 <=   OR . CR
+CR
+
+."Truth table for NOT" . CR
+x @ 15 >= NOT . CR
+x @  5 >= NOT . CR
+
+
+5 7 < 
+IFTHEN
+   1 1 + 2 == 
+   IFTHEN
+      3 2 % 0 ==
+      IFTHEN
+        ."Math works" . CR
+      ELSE
+        ."Talk like Yoda, we do" . CR
+      ENDIF
+   ELSE
+     ."Huh???" . CR
+   ENDIF
+ELSE 
+   1 1 + 3 ==
+   IFTHEN
+      ."Fake News Reported" . CR
+   ELSE
+      ."Caught ya lying" . CR
+   ENDIF
+ENDIF
+
+0 j SET
+
+DO
+
+  j @ 1 + j !    // j++
+  j @ . CR       // print j
+
+j @ 10 >= UNTIL  // until j >= 10
+
